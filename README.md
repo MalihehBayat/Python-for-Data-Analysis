@@ -5,4 +5,4 @@ writen by Wes McKinney: https://www.oreilly.com/library/view/python-for-data/978
 
 All the practices and data sets in this project are based on the book, but in many cases I have used my own approaches to solve the problems.
 
-**Each folder contains a different data set and its analysis using python/ jupyter notebook)
+<b>Each folder contains a different data set and its analysis using python/ jupyter notebook </b>
