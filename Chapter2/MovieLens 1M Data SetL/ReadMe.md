@@ -8,7 +8,7 @@ The MovieLens 1M data set contains 1 million ratings collected from 6000 users o
 #### Data Formatting: 
 1. Merging the three data tables together 
 2. Adding additional informations that were provided in the metadata to the dataset for further analysis
-#### Data analysis
+#### Data analysis:
 1. Selecting most frequently rated movies by users (I have chosen movies with at least 250 rating records)
 2. measuring the avarege of the movie ratings by male and female users
 3. finding top ten movies selected by both male and female uers
